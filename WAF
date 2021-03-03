@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T02:39:58.757Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="kc6JSpcdAZ8tKPq_idan" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T05:37:34.672Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="IXkQ6CSzos_16sZ-f90S" version="14.4.3" type="github">
   <diagram id="8HKc-W3P3JSvCGIpSu3j" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1322" dy="564" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,55 @@
         </mxCell>
         <mxCell id="C05fBz_bVQlYOVFkHr-l-30" value="6、因为浏览器会带上用户C的Cookie，站点A&lt;br&gt;不知道步骤5请求是B发出的，所以站点A会根&lt;br&gt;据用户C的权限处理步骤5的请求，这样B就达&lt;br&gt;到了伪造用户C请求的目的" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="469" y="95" width="251" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C05fBz_bVQlYOVFkHr-l-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C05fBz_bVQlYOVFkHr-l-31" target="C05fBz_bVQlYOVFkHr-l-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="347" y="583" />
+              <mxPoint x="347" y="583" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C05fBz_bVQlYOVFkHr-l-36" value="3、通过站点A可以访问到资源M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="C05fBz_bVQlYOVFkHr-l-35">
+          <mxGeometry x="-0.0889" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C05fBz_bVQlYOVFkHr-l-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="C05fBz_bVQlYOVFkHr-l-31" target="C05fBz_bVQlYOVFkHr-l-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="327" y="753" />
+              <mxPoint x="327" y="753" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C05fBz_bVQlYOVFkHr-l-31" value="&lt;font size=&quot;3&quot;&gt;浏览器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="126" y="528" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="C05fBz_bVQlYOVFkHr-l-32" value="用户C" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="26" y="598" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C05fBz_bVQlYOVFkHr-l-33" value="&lt;span style=&quot;font-size: 18px&quot;&gt;站点A&lt;br&gt;(资源站点)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="606" y="528" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="C05fBz_bVQlYOVFkHr-l-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.008;entryY=0.707;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=17;" edge="1" parent="1" source="C05fBz_bVQlYOVFkHr-l-34" target="C05fBz_bVQlYOVFkHr-l-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C05fBz_bVQlYOVFkHr-l-43" value="2、站点B返回资源M的地址（站点A内）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="C05fBz_bVQlYOVFkHr-l-42">
+          <mxGeometry x="0.3572" y="-3" relative="1" as="geometry">
+            <mxPoint x="66.19" y="-0.98" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C05fBz_bVQlYOVFkHr-l-34" value="&lt;font size=&quot;3&quot;&gt;站点B&lt;br&gt;(盗链站点)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="606" y="698" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="C05fBz_bVQlYOVFkHr-l-38" value="1、访问站点B的资源M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="417" y="753" as="geometry">
+            <mxPoint x="2" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C05fBz_bVQlYOVFkHr-l-45" value="客户以为是从站点B访问的资源M，&lt;br&gt;其实消耗的是站点A的带宽资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="429" y="524" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
