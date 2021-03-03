@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T02:12:50.642Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="84FPkcas3vn9QehX6aov" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T02:39:58.757Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="kc6JSpcdAZ8tKPq_idan" version="14.4.3" type="github">
   <diagram id="8HKc-W3P3JSvCGIpSu3j" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,11 +70,14 @@
             <mxPoint x="29.01" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C05fBz_bVQlYOVFkHr-l-9" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="C05fBz_bVQlYOVFkHr-l-9" value="用户C" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="240" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C05fBz_bVQlYOVFkHr-l-25" value="CSRF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="290" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C05fBz_bVQlYOVFkHr-l-30" value="6、因为浏览器会带上用户C的Cookie，站点A&lt;br&gt;不知道步骤5请求是B发出的，所以站点A会根&lt;br&gt;据用户C的权限处理步骤5的请求，这样B就达&lt;br&gt;到了伪造用户C请求的目的" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="469" y="95" width="251" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
