@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T04:47:11.260Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="MB8t5pQoRkiX6l2H4V0i" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-10T04:54:17.066Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="iNNmDsV77P8qAhZP3Zxe" version="14.4.4" type="github">
   <diagram id="8HKc-W3P3JSvCGIpSu3j" name="第 1 页">
     <mxGraphModel dx="1822" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -267,9 +267,6 @@
             <mxPoint x="25" y="-1.81" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RFFMUV9X6xrnZAgq86su-1" value="攻击者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="1497" width="60" height="94" as="geometry" />
-        </mxCell>
         <mxCell id="RFFMUV9X6xrnZAgq86su-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACEAAAAdCAYAAAAkXAW5AAAFWklEQVRYCc1WW0hVWxRVU8t8az4zzGdqqWgJBaIoov4oZiL2IrUwiaiUUjEt/bG8iiCkHwqCSGpU+lGg5Y0ClX6ij+gKEZSYeisKUcnn8YzLmN11Ona2957r/WnDZK+91l5rjjnWmHMtC/wCj8UvgAGbBrG2toZv375hYmICb968wYcPH7C4uLguJr1ev+57o49/BcGFjI0Lff78Gbdu3cLJkyeRkZGB1NRUZGZm4tSpU2hqasLk1KT4I1Bznk2BGB4eRmJiIsLCwhAdHY19+/YhMjIS4eHhSEhIwNDQkPjW438wYaBRD2GBEak+tjs7O7F3714xAlAWERGBqKgotLW1YXV11cAgEan5WsxoMqGc8q3T0XRiXIA6qK6uRlBQEOiU0SsjM8HBwaioqMDs7Kz4IxjOV1tqNghOIABlnMi+mZkZPH/+HIcPH0ZAQAD27NljYuzPycnBy5cvZT7nqnU2YkOTCeUU0GNhYQEjIyOo/60eZ8+eFSFyK8gEow4JCVln7KNOcnNzcf36dTx69EhYUUDMZoITFOonT34X9QeHBCMwMNBgjJjfBEOTsd2BCAr88R0aGoq4uDh0dHQYNGI2CLUdnPDq1SucOXNGxEfHtKSkJNkSasEYSHJyMvLy8kQj/v7+opmsrCw8fvzYsCVmg1DUUVBLS0tSiJ4+fYqamhpxmpKSgq6uLtTW1mL//v1gxJcuXcK9e/dw5coV+Pn54dixY7h//z7evn0rRcyY3Z+BaGpCTTDOCrbfvXuH9PR07Nq1S8RXWFgoKUl2Tpw4IYwxYwiqv79fAlABqffPAPitCUKlFCcqINK3pkdvb69sjZeXl0TMqH19faXt4+ODnTt3ory8HF++fBF/ssbq9xRnW+vRBEFNGJsC8vXrV0m9oqIiuLm5wdPLE94+3qBzb29vuLq6Ij4+Hg8fPsTU1BRWVlZkHd2q7r9rwhgAS+/c/Bza29tx/PhxcAvq6upkG+iUjNA8PDyEjfPnz6OsrAzZ2dm4ceMGPn36xEw31IxNMcFJrJKXL1+WSBl1cXExLly4INogEJqnp6fUBlZT6sLOzg5HjhzB9PS0+N1oKziouR1KC1JyV3WyyLNnz+SscHJykoOL2XDx4kU5yA4dOoSCggJcu3ZNDjAXFxfs2LEDra2t6zW1wdH+jyAIhltDSvv6+iQdnZ2dJXKW7KNHj6KkpASlpaWSGQcOHBCt8B+KtbGxUdKbmuJaDErr2RAEf6bCBwYGhPrY2FiJTtFPRqgFVkumJLOCDMi4y/ctYjE7XXgad+/eFTAMSOsxAaFEySJTWVkJOmcmODg4gI4ZpTJHR0fp5xhN9as3+wiMGjl37hxevHhhOA6MwZiA4OD8/DyuXr0qzikwBYAgaHSu3qqtNcY+e3t7ESn/403s/fv3xv6lrQni9evXclOytraWRVSkm3kTBOfZ2NjI9vX09JgHgmfA9u3bsXXrVomC7c0amSQQrmVhYYGqqiopYsZINJlgxWM5trW1xZYtWyQKtrdt2yaguDBB8f2z8R9ldGxjawMySqNWGhoazAPx8c+PaGlpkarH+yMLEZ2SUktLSzGCs7KyEpCqzW9Gy3/YRzDubu5y6eHBx1N3bGzMRJwmTDA7mM9zc3MY+2NMTkOWX3Wr4tkQExMj1zrWAnd3dxEw05W3LF50Dx48iLS0NOTn50sB6+7uljOHZ49W5dQGoftxU+YhRECTk5NywRkdHcXg4CDu3LkjbNXX1+PmzZtobm7G7du38eDBA/DuwTvm+Pi43EuXl5eNJWACxAQE/1ZFRb3XrfD3OKsgAdIBjW0yqBWp1nzjvr8A23th7GV9GWEAAAAASUVORK5CYII=;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1587" width="42.1" height="37" as="geometry" />
         </mxCell>
@@ -301,11 +298,104 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RFFMUV9X6xrnZAgq86su-12" value="用户C" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="RFFMUV9X6xrnZAgq86su-12" value="用户&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-46" y="1708" width="60" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="RFFMUV9X6xrnZAgq86su-13" target="RFFMUV9X6xrnZAgq86su-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="527" y="1774" />
+              <mxPoint x="527" y="1774" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="RFFMUV9X6xrnZAgq86su-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="19" y="1820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="253" y="1820" />
+              <mxPoint x="253" y="1820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-21" value="返回页面" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="RFFMUV9X6xrnZAgq86su-20">
+          <mxGeometry x="0.1494" y="3" relative="1" as="geometry">
+            <mxPoint x="-6" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RFFMUV9X6xrnZAgq86su-13" value="&lt;span style=&quot;font-size: 18px&quot;&gt;网站A&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="327" y="1685" width="171" height="294" as="geometry" />
+          <mxGeometry x="327" y="1685" width="171" height="338" as="geometry" />
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="RFFMUV9X6xrnZAgq86su-16" target="RFFMUV9X6xrnZAgq86su-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="663" y="1811" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-16" value="&lt;span style=&quot;font-size: 18px&quot;&gt;page1.php&lt;br&gt;(正常文件)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627" y="1757" width="120" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-19" value="加载page1.php&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="507" y="1782" width="111" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-22" value="攻击者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-36" y="1507" width="60" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.282;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="RFFMUV9X6xrnZAgq86su-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="323" y="1918.908" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-25" value="请求恶意页面X&lt;br&gt;http://xxx.com/page?page=x" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="RFFMUV9X6xrnZAgq86su-24">
+          <mxGeometry x="-0.2079" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-26" value="用户&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1859" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15" y="1971" as="targetPoint" />
+            <mxPoint x="323" y="1971" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="249" y="1971" />
+              <mxPoint x="249" y="1971" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-28" value="返回用户页面" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="RFFMUV9X6xrnZAgq86su-27">
+          <mxGeometry x="0.1494" y="3" relative="1" as="geometry">
+            <mxPoint x="-6" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACEAAAAdCAYAAAAkXAW5AAAFWklEQVRYCc1WW0hVWxRVU8t8az4zzGdqqWgJBaIoov4oZiL2IrUwiaiUUjEt/bG8iiCkHwqCSGpU+lGg5Y0ClX6ij+gKEZSYeisKUcnn8YzLmN11Ona2957r/WnDZK+91l5rjjnWmHMtC/wCj8UvgAGbBrG2toZv375hYmICb968wYcPH7C4uLguJr1ev+57o49/BcGFjI0Lff78Gbdu3cLJkyeRkZGB1NRUZGZm4tSpU2hqasLk1KT4I1Bznk2BGB4eRmJiIsLCwhAdHY19+/YhMjIS4eHhSEhIwNDQkPjW438wYaBRD2GBEak+tjs7O7F3714xAlAWERGBqKgotLW1YXV11cAgEan5WsxoMqGc8q3T0XRiXIA6qK6uRlBQEOiU0SsjM8HBwaioqMDs7Kz4IxjOV1tqNghOIABlnMi+mZkZPH/+HIcPH0ZAQAD27NljYuzPycnBy5cvZT7nqnU2YkOTCeUU0GNhYQEjIyOo/60eZ8+eFSFyK8gEow4JCVln7KNOcnNzcf36dTx69EhYUUDMZoITFOonT34X9QeHBCMwMNBgjJjfBEOTsd2BCAr88R0aGoq4uDh0dHQYNGI2CLUdnPDq1SucOXNGxEfHtKSkJNkSasEYSHJyMvLy8kQj/v7+opmsrCw8fvzYsCVmg1DUUVBLS0tSiJ4+fYqamhpxmpKSgq6uLtTW1mL//v1gxJcuXcK9e/dw5coV+Pn54dixY7h//z7evn0rRcyY3Z+BaGpCTTDOCrbfvXuH9PR07Nq1S8RXWFgoKUl2Tpw4IYwxYwiqv79fAlABqffPAPitCUKlFCcqINK3pkdvb69sjZeXl0TMqH19faXt4+ODnTt3ory8HF++fBF/ssbq9xRnW+vRBEFNGJsC8vXrV0m9oqIiuLm5wdPLE94+3qBzb29vuLq6Ij4+Hg8fPsTU1BRWVlZkHd2q7r9rwhgAS+/c/Bza29tx/PhxcAvq6upkG+iUjNA8PDyEjfPnz6OsrAzZ2dm4ceMGPn36xEw31IxNMcFJrJKXL1+WSBl1cXExLly4INogEJqnp6fUBlZT6sLOzg5HjhzB9PS0+N1oKziouR1KC1JyV3WyyLNnz+SscHJykoOL2XDx4kU5yA4dOoSCggJcu3ZNDjAXFxfs2LEDra2t6zW1wdH+jyAIhltDSvv6+iQdnZ2dJXKW7KNHj6KkpASlpaWSGQcOHBCt8B+KtbGxUdKbmuJaDErr2RAEf6bCBwYGhPrY2FiJTtFPRqgFVkumJLOCDMi4y/ctYjE7XXgad+/eFTAMSOsxAaFEySJTWVkJOmcmODg4gI4ZpTJHR0fp5xhN9as3+wiMGjl37hxevHhhOA6MwZiA4OD8/DyuXr0qzikwBYAgaHSu3qqtNcY+e3t7ESn/403s/fv3xv6lrQni9evXclOytraWRVSkm3kTBOfZ2NjI9vX09JgHgmfA9u3bsXXrVomC7c0amSQQrmVhYYGqqiopYsZINJlgxWM5trW1xZYtWyQKtrdt2yaguDBB8f2z8R9ldGxjawMySqNWGhoazAPx8c+PaGlpkarH+yMLEZ2SUktLSzGCs7KyEpCqzW9Gy3/YRzDubu5y6eHBx1N3bGzMRJwmTDA7mM9zc3MY+2NMTkOWX3Wr4tkQExMj1zrWAnd3dxEw05W3LF50Dx48iLS0NOTn50sB6+7uljOHZ49W5dQGoftxU+YhRECTk5NywRkdHcXg4CDu3LkjbNXX1+PmzZtobm7G7du38eDBA/DuwTvm+Pi43EuXl5eNJWACxAQE/1ZFRb3XrfD3OKsgAdIBjW0yqBWp1nzjvr8A23th7GV9GWEAAAAASUVORK5CYII=;" vertex="1" parent="1">
+          <mxGeometry x="-43" y="1982" width="42.1" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;entryX=1.006;entryY=0.852;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RFFMUV9X6xrnZAgq86su-30" target="RFFMUV9X6xrnZAgq86su-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="511" y="1973" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="591" y="1973" />
+              <mxPoint x="591" y="1973" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-30" value="&lt;span style=&quot;font-size: 18px&quot;&gt;恶意文件X&lt;br&gt;(来源：提前上传或者远程恶意脚本文件)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="777" y="1878" width="182" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="498" y="1918.5" as="sourcePoint" />
+            <mxPoint x="769" y="1919" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="527" y="1919" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFFMUV9X6xrnZAgq86su-33" value="加载恶意文件X，同时也执行到了&lt;br&gt;里面的恶意脚本" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="513" y="1927" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
