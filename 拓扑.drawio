@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T01:49:15.068Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="MVsHypdck0xUpGntyNhI" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T01:50:27.681Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="HEhMDUc_PU9PDa7km7cB" version="14.5.8" type="github">
   <diagram id="157axFhQxNzcxSdGKx4_" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,6 +43,15 @@
         </mxCell>
         <mxCell id="Ih3orOqQ1EaFsegVFNFU-12" value="N1盒子(192.168.1.254)" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
           <mxGeometry x="285" y="610" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih3orOqQ1EaFsegVFNFU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" edge="1" parent="1" source="Ih3orOqQ1EaFsegVFNFU-15" target="Ih3orOqQ1EaFsegVFNFU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih3orOqQ1EaFsegVFNFU-17" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;rounded=0;dashed=1;" edge="1" parent="1" source="Ih3orOqQ1EaFsegVFNFU-15" target="Ih3orOqQ1EaFsegVFNFU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ih3orOqQ1EaFsegVFNFU-15" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" vertex="1" parent="1">
+          <mxGeometry x="530" y="423.75" width="24.21" height="57.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
