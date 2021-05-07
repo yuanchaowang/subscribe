@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T01:19:46.755Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="8yuL19INEiT76rzn4lY2" version="14.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T01:21:18.846Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="5-n9h1CkeF6Gkzb7HYfC" version="14.6.5" type="github">
   <diagram id="v5LcWsZtgfVfvN7lWXmg" name="第 1 页">
-    <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1570" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,6 +177,12 @@
         </mxCell>
         <mxCell id="-jd2WQwSn5VxSrcjOLGL-79" value="第二次池化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="810" y="390" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-jd2WQwSn5VxSrcjOLGL-80" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="355" width="20" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="-jd2WQwSn5VxSrcjOLGL-81" value="三次全连接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="520" width="96" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
