@@ -1,14 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T01:27:32.186Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="XhV4t4yr4XBam65T4KRA" version="15.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-09T08:13:16.549Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="CVBTe8Be7P9lLAguzVud" version="15.1.1" type="github">
   <diagram id="mxRbhKWMWeh9_TPcFuRs" name="第 1 页">
-    <mxGraphModel dx="928" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="928" dy="578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nyigCW-Tp1uh5YNor_5S-18" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-30" width="430" height="440" as="geometry" />
+          <mxGeometry x="142" y="60" width="430" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-94" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="193" y="672" width="163" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-93" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="358" y="608" width="163" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.113;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-1" target="nyigCW-Tp1uh5YNor_5S-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="447" y="176" />
+              <mxPoint x="447" y="91" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nyigCW-Tp1uh5YNor_5S-1" value="Master" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="60" width="80" height="104" as="geometry" />
+          <mxGeometry x="312" y="150" width="80" height="104" as="geometry" />
         </mxCell>
         <mxCell id="nyigCW-Tp1uh5YNor_5S-2" value="NS1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nyigCW-Tp1uh5YNor_5S-1">
           <mxGeometry y="26" width="80" height="26" as="geometry" />
@@ -23,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nyigCW-Tp1uh5YNor_5S-9" value="Slave1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="210" width="80" height="104" as="geometry" />
+          <mxGeometry x="232" y="300" width="80" height="104" as="geometry" />
         </mxCell>
         <mxCell id="nyigCW-Tp1uh5YNor_5S-10" value="NS4" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nyigCW-Tp1uh5YNor_5S-9">
           <mxGeometry y="26" width="80" height="26" as="geometry" />
@@ -36,11 +50,11 @@
         </mxCell>
         <mxCell id="nyigCW-Tp1uh5YNor_5S-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.475;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-13" target="nyigCW-Tp1uh5YNor_5S-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="160" as="targetPoint" />
+            <mxPoint x="352" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nyigCW-Tp1uh5YNor_5S-13" value="Slave2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="210" width="80" height="104" as="geometry" />
+          <mxGeometry x="392" y="300" width="80" height="104" as="geometry" />
         </mxCell>
         <mxCell id="nyigCW-Tp1uh5YNor_5S-14" value="NS7&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nyigCW-Tp1uh5YNor_5S-13">
           <mxGeometry y="26" width="80" height="26" as="geometry" />
@@ -51,26 +65,209 @@
         <mxCell id="nyigCW-Tp1uh5YNor_5S-16" value="NS9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nyigCW-Tp1uh5YNor_5S-13">
           <mxGeometry y="78" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="nyigCW-Tp1uh5YNor_5S-22" value="&lt;font style=&quot;font-size: 20px&quot;&gt;AS10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="110" width="60" height="20" as="geometry" />
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-22" value="&lt;font style=&quot;font-size: 20px&quot;&gt;AS20&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="203" y="200" width="59" height="21" as="geometry" />
         </mxCell>
         <mxCell id="nyigCW-Tp1uh5YNor_5S-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.144;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-23" target="nyigCW-Tp1uh5YNor_5S-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-23" target="nyigCW-Tp1uh5YNor_5S-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="301" y="72" />
+              <mxPoint x="301" y="72" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nyigCW-Tp1uh5YNor_5S-23" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-70" width="150" height="140" as="geometry" />
+          <mxGeometry x="92" y="20" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="nyigCW-Tp1uh5YNor_5S-25" value="&lt;font style=&quot;font-size: 20px&quot;&gt;AS100&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="-15" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="nyigCW-Tp1uh5YNor_5S-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.988;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-26" target="nyigCW-Tp1uh5YNor_5S-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-25" value="&lt;font style=&quot;font-size: 20px&quot;&gt;AS200&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="127" y="75" width="70" height="21" as="geometry" />
         </mxCell>
         <mxCell id="nyigCW-Tp1uh5YNor_5S-26" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-70" width="150" height="130" as="geometry" />
+          <mxGeometry x="502" y="20" width="150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="nyigCW-Tp1uh5YNor_5S-27" value="&lt;font style=&quot;font-size: 20px&quot;&gt;AS200&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="-10" width="80" height="20" as="geometry" />
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-27" value="&lt;font style=&quot;font-size: 20px&quot;&gt;AS10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="548" y="80" width="59" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-50" target="nyigCW-Tp1uh5YNor_5S-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249" y="758" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-34" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
+          <mxGeometry x="209" y="678" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-62" target="nyigCW-Tp1uh5YNor_5S-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-36" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
+          <mxGeometry x="369" y="678" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-54" target="nyigCW-Tp1uh5YNor_5S-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-37" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
+          <mxGeometry x="209" y="768" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-56" target="nyigCW-Tp1uh5YNor_5S-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-38" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
+          <mxGeometry x="369" y="768" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-39" target="nyigCW-Tp1uh5YNor_5S-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-39" value="P1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.user_male;" vertex="1" parent="1">
+          <mxGeometry x="149" y="668" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-46" value="P2" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.web_server;" vertex="1" parent="1">
+          <mxGeometry x="559" y="758" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-47" target="nyigCW-Tp1uh5YNor_5S-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-47" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
+          <mxGeometry x="539" y="678" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-50" value="NS1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="229" y="728" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-34" target="nyigCW-Tp1uh5YNor_5S-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249" y="768" as="targetPoint" />
+            <mxPoint x="249" y="708" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-54" value="NS2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="309" y="773" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-37" target="nyigCW-Tp1uh5YNor_5S-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="289" y="783" as="sourcePoint" />
+            <mxPoint x="369" y="783" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-56" value="NS4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="389" y="728" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-38" target="nyigCW-Tp1uh5YNor_5S-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409" y="768" as="sourcePoint" />
+            <mxPoint x="409" y="708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-62" value="NS5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="464" y="683" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-36" target="nyigCW-Tp1uh5YNor_5S-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449" y="693" as="sourcePoint" />
+            <mxPoint x="539" y="693" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-74" target="nyigCW-Tp1uh5YNor_5S-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-74" value="原始报文信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1174" width="91" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-75" target="nyigCW-Tp1uh5YNor_5S-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-75" value="流量解析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1258" width="91" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-76" target="nyigCW-Tp1uh5YNor_5S-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-76" value="流量会话统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1342" width="91" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-79" target="nyigCW-Tp1uh5YNor_5S-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-79" value="&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;SLAVE(如果是Master)，或者下级AS（如果有下级AS）上报的会话统计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="1328" width="121.5" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-81" target="nyigCW-Tp1uh5YNor_5S-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-81" target="nyigCW-Tp1uh5YNor_5S-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="408" y="1448" />
+              <mxPoint x="408" y="1522" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-81" value="合并统计，形成最终流量会话结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1426" width="91" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-86" value="统计结果写入Elastic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1500" width="91" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-87" value="统计结果上报给Master(如果是Slave)，或者上报给上级AS（如果是Master并且设置了上级AS）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="1477" width="122.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-95" value="Master区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="244" y="643" width="71" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-96" value="Slave区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="408" y="576" width="64" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-108" target="nyigCW-Tp1uh5YNor_5S-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-108" value="原始报文信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="289" y="1585" width="91" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-110" target="nyigCW-Tp1uh5YNor_5S-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-110" value="流量解析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="1669" width="91" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-112" target="nyigCW-Tp1uh5YNor_5S-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-112" value="流量会话统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="1753" width="91" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-114" target="nyigCW-Tp1uh5YNor_5S-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-114" value="&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;SLAVE(如果是Master)上报的会话统计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="436.5" y="1739" width="121.5" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.489;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-117" target="nyigCW-Tp1uh5YNor_5S-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-117" target="nyigCW-Tp1uh5YNor_5S-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-117" value="合并统计，形成本AS内的流量会话结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="1837" width="91" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-118" value="全局统计结果写入Elastic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="2034" width="91" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-119" value="统计结果上报给上级AS（如果设置了上级AS）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="438.5" y="1872" width="122.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-120" target="nyigCW-Tp1uh5YNor_5S-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-120" value="合并统计，形成本AS的全局流量会话结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1958" width="91" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyigCW-Tp1uh5YNor_5S-121" target="nyigCW-Tp1uh5YNor_5S-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nyigCW-Tp1uh5YNor_5S-121" value="其他AS上报的统计（如果有其他AS下级）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="438.5" y="1944" width="121.5" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
